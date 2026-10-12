@@ -187,6 +187,7 @@
 | **Waves CLA-76 / SSL G-Bus** | Plugin | Classic hardware compression emulation |
 | **Krisp** | App | Real-time AI noise cancellation for calls & recording |
 | **NVIDIA RTX Voice** | App | GPU-accelerated real-time background noise removal |
+| **[QuietTake Noise Remover](https://noiseremover.site/)** | Browser (Free) | Local RNNoise speech noise reduction for short clips, original/cleaned playback, 48 kHz 16-bit WAV export; no signup or audio upload; each file must be 50 MB or smaller and five minutes or shorter |
 
 ---
 
