@@ -171,6 +171,7 @@
 | **NVIDIA RTX Voice** | 独立软件 | GPU 加速实时降噪 |
 | **Waves NS1** | 插件 | 智能单旋钮降噪 |
 | **FabFilter Pro-Q 3** | 插件 | 精准均衡器，频谱分析 |
+| **[QuietTake Noise Remover](https://noiseremover.site/)** | 网页（免费） | 浏览器本地 RNNoise 短语音录音降噪，可对比原音与处理结果并导出 48 kHz、16-bit WAV；无需注册或上传录音，每个文件限 50 MB 且不超过五分钟 |
 
 ---
 
